@@ -71,8 +71,8 @@ cv2.destroyAllWindows()
 ## Output:
 ### SOBEL EDGE DETECTOR
 ![output](sobel1.png)
-![output](2.png)
-![output](3.png)
+![output](y.png)
+![output](z.png)
 
 ### LAPLACIAN EDGE DETECTOR
 ![output](lap.png)
